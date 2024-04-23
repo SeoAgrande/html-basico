@@ -5,36 +5,32 @@ body {
 }
 
 table {
-
-
-border-collapse: collapse;
-border: 3px solid rgb(140 140 140);
-font-family: sans-serif;
-font-size: 0.8rem;
-letter-spacing: 1px;
-text-align: right;
-vertical-align: top;
-
-
-
+    margin: 40px auto;
+    border-collapse: collapse;
+    border: 3px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    text-align: left;
+    vertical-align: top;
 }
 
-th,td {
-            border: 3px solid rgb(7, 0, 0);
-            padding: 8px 10px;
-            
-        }
+th,
+td {
+    border: 3px solid rgb(7, 0, 0);
+    padding: 8px 10px;
+}
 
 h1 {
-    color:palegreen;
-    text-align:center;
+    color: palegreen;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
 p {
     color: skyblue;
-    text-align:center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 a {
