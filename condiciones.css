@@ -1,0 +1,28 @@
+body {
+    padding: 40px;
+    width: 80%;
+    background-color:darkseagreen;
+}
+
+li {
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: left;
+    color:darkorchid;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    margin:10px;
+}
+
+img {
+    margin-left: 80px;
+    border: 1px solid #ddd;
+    background-color: darkorchid;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+}
+

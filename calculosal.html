@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcula Salari </title>
+    <link rel="stylesheet" href="websalarios.css">
+
+
+</head>
+
+<body>
+
+    <h1>Calcular Salari Brut</h1>
+
+    <form id="formulari">
+        <label for="nom">Nom i cognoms:</label>
+        <input type="text" id="nom" required><br><br>
+        <label for="edat">Edat:</label>
+        <input type="number" id="edat" required><br><br>
+        <label for="salari">Salari actual (€):</label>
+        <input type="number" id="salari" step="0.01" required><br><br>
+        <input type="submit" value="Actualitzar salari" onclick="actualitzarSalari()">
+    </form>
+
+    <P id="resultat"></P>
+
+    <img id="calcimg" src="https://fotografias.larazon.es/clipping/cmsimages01/2022/06/02/CA11FBE4-FC02-49EB-AD3F-1166F500D198/98.jpg?crop=5472,3079,x0,y285&width=1900&height=1069&optimize=low&format=webply" />
+
+    <script src="websalarios.js"></script>
+</body>
+
+</html>

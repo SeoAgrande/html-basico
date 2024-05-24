@@ -1,0 +1,42 @@
+/* CSS */
+
+.mybutton {
+    background-color: grey;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 4px 5px grey;
+    cursor: pointer;
+    display: block;
+    margin-left: 20px;
+}
+
+body {
+    padding: 40px;
+    width: 80%;
+    background-color: lightcoral;
+}
+
+img {
+    margin-left: 350px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 800px;
+}
+
+.ao2022 {
+
+    text-align: center;
+    color: darkred;
+    background-color: gainsboro;
+}
+
+#calcimg {
+    margin-left: 15px;
+    margin: top 15px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 3px;
+    width: 300px;
+}
+
