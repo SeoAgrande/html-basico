@@ -1,0 +1,56 @@
+/* CSS */
+
+.mybutton {
+    background-color: grey;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 4px 5px grey;
+    cursor: pointer;
+    display: block;
+    margin-left: 20px;
+}
+
+body {
+    padding: 40px;
+    width: 80%;
+    background-color: lightcoral;
+}
+
+img {
+    margin-left: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    width: 450px;
+
+}
+
+
+#calcimg {
+    margin-left: 15px;
+    margin: top 15px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 3px;
+    width: 500px;
+    margin-top: 35px;
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    border-radius: 15px;
+    width: 400px;
+    display: block  ;
+}
+
+h2 {
+    text-align: center;
+    color: darkred;
+    background-color: gainsboro;
+    border-radius: 15px;
+    width: 800px;
+    display: block  ;
+}
+
